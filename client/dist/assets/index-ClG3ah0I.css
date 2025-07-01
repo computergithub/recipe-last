@@ -255,7 +255,7 @@ html {
 
 #home:before {
     content: "";
-    background: url(/bg2-B59oizu7.PNG)no-repeat center center;
+    background: url('bg2-B59oizu7.PNG')no-repeat center center;
     background-size: cover;
     height: 720px;
     width: 100%;
@@ -266,7 +266,7 @@ html {
 
 #createRec:before {
     content: "";
-    background: url(/bg1-hAaJeoMO.PNG)#0000002e no-repeat center center;
+    background: url('/assets/bg1-hAaJeoMO.PNG')#0000002e no-repeat center center;
     background-size: cover;
     height: 735px;
     width: 100%;
